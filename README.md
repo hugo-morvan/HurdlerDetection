@@ -14,6 +14,9 @@ Project aimed to develop a tool to track hurdlers during 100/110m hurdles races 
 | Report | Video |
 |--------|-------|
 |[Men's 110m hurdles - 2017 IAAF World Championships Biomechanical report](https://worldathletics.org/download/download?filename=e7427e94-e7b6-472b-bd67-a1f2d7307f88.pdf&urlslug=Men%27s%20110m%20hurdles%20-%202017%20IAAF%20World%20Championships%20Biomechanical%20report)|[video](https://youtu.be/EyaDyJZU75M?si=-9lWBAwHFTz10bl2&t=266)|
+|[Men’s 60m hurdles – 2018 IAAF Indoor Championships Biomechanical Report](https://worldathletics.org/download/download?filename=0d4bc5cd-4a8b-4faa-81e0-898e90a091c5.pdf&urlslug=Men%E2%80%99s%2060m%20hurdles%20%E2%80%93%202018%20IAAF%20Indoor%20Championships%20Biomechanical%20Report)|[video](https://youtu.be/t0zF74w6GBs?si=Ckxd3IRuq0cGpHoz&t=300)|
+|[Women’s 60m hurdles – 2018 IAAF Indoor Championships Biomechanical Report](https://worldathletics.org/download/download?filename=6a66447c-900f-49ff-9330-0d1c9d975dec.pdf&urlslug=Women%E2%80%99s%2060m%20hurdles%20%E2%80%93%202018%20IAAF%20Indoor%20Championships%20Biomechanical%20Report)|[video](https://youtu.be/AqJjeyxf3mM?si=tyK0sUpBKd2ForXc&t=250)|
+|[Biomechanics Report WC Berlin 2009 Hurdles Men](https://worldathletics.org/download/download?filename=afbf4956-27ef-452c-8af2-4040c6c7232a.pdf&urlslug=2%20-%20Biomechanics%20Report%20WC%20Berlin%202009%20Hurdles%20Men)|[video (final)](https://youtu.be/Nsp2U3rtCBQ?si=lwzs43lTvPojKdWk),[video (SF1/3)](https://youtu.be/WxXwmSye9SI?si=_gvnloWQ5p5UhBdR),[video (SF2/3](https://youtu.be/_151EPRnpCg?si=IGczWYauEoFD7zwA), [video (SF3/3)](https://youtu.be/Y4Utfnu40GQ?si=RfwcRbNL82fnK6TI)|
 |[]()|[video]()|
 |[]()|[video]()|
 
