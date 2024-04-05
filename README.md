@@ -3,12 +3,19 @@ Project aimed to develop a tool to track hurdlers during 100/110m hurdles races 
 
 ## Sources and Resources: 
 
-
 | Source/Resource | Description |
 |-----------------|-------------|
 | [World Athletics research center](https://worldathletics.org/about-iaaf/documents/research-centre) | Final reports on scientific projects in the areas of biomechanics, coaching and development initiated by World Athletics, with help from the IAF (International Athletics Foundation)  |
 | [Sports Analytics](https://www.ida.liu.se/research/sportsanalytics/resources/) | Resources for Sports Analytics from Linköping University|
 | [Towards Data Science](https://towardsdatascience.com/implementing-real-time-object-detection-system-using-pytorch-and-opencv-70bac41148f7) | Implementing real time object detection system using pytorch and openCV. |
+
+## Data:
+
+| Report | Video |
+|--------|-------|
+|[Men's 110m hurdles - 2017 IAAF World Championships Biomechanical report](https://worldathletics.org/download/download?filename=e7427e94-e7b6-472b-bd67-a1f2d7307f88.pdf&urlslug=Men%27s%20110m%20hurdles%20-%202017%20IAAF%20World%20Championships%20Biomechanical%20report)|[video](https://youtu.be/EyaDyJZU75M?si=-9lWBAwHFTz10bl2&t=266)|
+|[]()|[video]()|
+|[]()|[video]()|
 
 
 ## Brainstorming (using a LLM):
