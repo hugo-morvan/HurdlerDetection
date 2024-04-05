@@ -8,7 +8,7 @@ Project aimed to develop a tool to track hurdlers during 100/110m hurdles races 
 | [World Athletics research center](https://worldathletics.org/about-iaaf/documents/research-centre) | Final reports on scientific projects in the areas of biomechanics, coaching and development initiated by World Athletics, with help from the IAF (International Athletics Foundation)  |
 | [Sports Analytics](https://www.ida.liu.se/research/sportsanalytics/resources/) | Resources for Sports Analytics from Linköping University|
 | [Towards Data Science](https://towardsdatascience.com/implementing-real-time-object-detection-system-using-pytorch-and-opencv-70bac41148f7) | Implementing real time object detection system using pytorch and openCV. |
-
+|[Detecting straight lines using Hough transform in Python](https://youtu.be/5zAT6yTHvP0?si=-rKqnaN4vGY5J-PU)|Youtube video. Could be useful to detect lanes|
 ## Data:
 
 | Report | Video |
