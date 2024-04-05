@@ -10,6 +10,11 @@ Project aimed to develop a tool to track hurdlers during 100/110m hurdles races 
 | [Towards Data Science (Article)](https://towardsdatascience.com/implementing-real-time-object-detection-system-using-pytorch-and-opencv-70bac41148f7) | Implementing real time object detection system using pytorch and openCV. |
 |[Detecting straight lines using Hough transform in Python (Video)](https://youtu.be/5zAT6yTHvP0?si=-rKqnaN4vGY5J-PU)|Youtube video. Could be useful to detect lanes|
 |[Object Tracking from scratch with OpenCV and Python (Video)](https://youtu.be/GgGro5IV-cs?si=zSC2PTiJCVPXXYP3)|Could be used to track runners|
+|[Dima Sports Hurdles](https://www.dimasport.fr/en/158-hurdles)|Dima catalog. Can be used to find hurdles dimensions|
+|[AAE Sports Hurdles](https://www.aaesports.com/track-hurdles-s/170.htm)|AAE catalog. Can be used to find hurdles dimensions|
+|[NordicSports Hurdles](https://nordicsport.se/en/collections/hurdles/Hurdles)|Nordic Sports. Can be used to find hurdles dimenions|
+|[Gills Athletics hurdles](https://www.gillporter.com/gill_store/track-and-field-equipment.html#&cat=hurdles)|Gills. Can be used to find hurdles dimenions|
+
 ## Data:
 
 | Report | Video |
@@ -26,6 +31,7 @@ Project aimed to develop a tool to track hurdlers during 100/110m hurdles races 
 
 1. Lane Detection:
 
+**Keywords**: centerline extraction, Hough transforms
 Implement lane detection algorithms to identify and distinguish between different lanes on the track. This can involve techniques like edge detection, Hough transforms, or deep learning-based methods.
 Once lanes are detected, assign each athlete to their respective lane based on their position within the lanes.
 
